@@ -15,4 +15,3 @@ Check out the live project here: [Cat Light Switch Demo](https://srushtinavale-0
 * Interactive ON / OFF toggle buttons
 * Dynamic image switching (Light bulb and Cat)
 * Live DOM style and text updates
-patch
